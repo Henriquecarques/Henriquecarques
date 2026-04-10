@@ -19,4 +19,4 @@ My personal skills include:
 - Ease in solving problems, assertive communication, and I always seek to work in a team
 My technical skills include:
 - Basic Java and Python
-I'm here to solve problems!
+-I'm here to solve problems!
