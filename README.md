@@ -1,16 +1,22 @@
-## Hi there 👋
+#Olá, sou o Henrique Carques!
+Como experiência acadêmica:
+Bacharelando em Enenharia de Software no Centro Universitário de Brasília (CEUB) 
+Atualmente estudo também um curso complementar de ingles conversação e oratória
+Possuo certificado de Inteligência Artificial emitido pela Code.org
+Como habilidades pessoais tenho:
+-Facilidade em resolver problemas,comunicação acertiva e procuro sempre atuar em equipe
+Como habilidades técnicas possuo:
+-Java e Python básico
+Estou aqui para resolver problemas!
 
-<!--
-**Henriquecarques/Henriquecarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Hello, I'm Henrique Carques!
+Regarding my academic experience:
+Bachelor's degree in Software Engineering from the University Center of Brasília (CEUB)
+Im also currently taking a supplementary course in conversational English and public speaking 
+I hold a certificate in Artificial Intelligence issued by Code.org
+My personal skills include:
+- Ease in solving problems, assertive communication, and I always seek to work in a team
+My technical skills include:
+- Basic Java and Python
+I'm here to solve problems!
