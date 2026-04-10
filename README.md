@@ -1,4 +1,4 @@
-#Olá, sou o Henrique Carques!
+Olá, sou o Henrique Carques!
 Como experiência acadêmica:
 Bacharelando em Enenharia de Software no Centro Universitário de Brasília (CEUB) 
 Atualmente estudo também um curso complementar de ingles conversação e oratória
@@ -10,7 +10,7 @@ Java e Python básico
 -Estou aqui para resolver problemas!
 
 
-#Hello, I'm Henrique Carques!
+Hello, I'm Henrique Carques!
 Regarding my academic experience:
 Bachelor's degree in Software Engineering from the University Center of Brasília (CEUB)
 Im also currently taking a supplementary course in conversational English and public speaking 
